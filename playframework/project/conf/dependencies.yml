@@ -1,0 +1,11 @@
+# Application dependencies
+
+require:
+    - play
+    - play -> gae 1.4
+    - play -> siena 2.0.4
+    - play -> akka head
+    - play -> heroku 0.3
+    - play -> jqueryui 1.0
+    - play -> linkedin 0.2.1
+    - play -> greenscript 1.2.8b
